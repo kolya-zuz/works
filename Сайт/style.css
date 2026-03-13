@@ -1,0 +1,6 @@
+*{ box-sizing: border-box; margin: 0;}
+.sec1 { height: 2162px; width: 1220px; margin-inline: 150.4px; }
+.sec2 { height: 119px; width: 1220px; }
+.telephone { font-family: "Ubuntu", sans-serif; font-weight: 500; font-style: normal; font-size: 18px;}
+.telephone { display: inline; margin-left: 980px; margin-top: 37px;}
+img { height: 45.32px; width: 80.35px; margin-top: 37px; display: inline;}

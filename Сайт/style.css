@@ -1,4 +1,4 @@
-*{ margin: 0;}
+*{ margin: 0; position: relative;}
 .sec1 { height: 2162px; width: 1220px; margin-inline: 150.4px; }
 
 h1 { font-family: "Oswald", sans-serif; font-optical-sizing: auto; font-weight: 600; font-size: 48px; color:rgb(44, 51, 47); font-style: normal;
@@ -10,6 +10,12 @@ h3 { font-family: "Oswald", sans-serif; font-optical-sizing: auto; font-weight: 
 
 img { height: 512px; width: 1220px; margin-top: 80px;}
 
+ul { right: 17px; }
+
 li::marker { color: rgb(53, 150, 237); font-size: 27px;}
 
 video { height: 512px; width: 1220px; margin-top: 40px;}
+
+@media (max-width: 1401px) { *{right: 15px}}
+@media (max-width: 1350px) { *{right: 20px}}
+@media (max-width: 1312px) { *{right: 25px}}

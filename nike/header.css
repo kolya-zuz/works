@@ -4,26 +4,28 @@ body { background-color: #2A2A29; width: 1240px; margin-inline: auto;}
 
 header { height: 24px; top: 40px;}
 
-.a { text-decoration: none; color: rgb(255, 255, 255); font-family:  "Montserrat", sans-serif; font-weight: 300; font-size: 13px; line-height: 130%; bottom: 5px; left: 120px;}
+.a { text-decoration: none; color: rgb(255, 255, 255); font-family:  "Montserrat", sans-serif; font-weight: 300; font-size: 13px; line-height: 130%; }
 .a:hover { color: rgb(255, 234, 0); }
 
-.a2 { left: 144px;} 
+.a1 { left: 117px; bottom: 5px; }
 
-.a3 { left: 170px}
+.a2 { left: 141px; bottom: 5px; } 
 
-.a4 { left: 196px}
+.a3 { left: 167px; bottom: 5px; }
 
-.a5 { left: 1022px; color: rgb(255, 234, 0); font-weight: 400; 
-text-decoration: none; font-family:  "Montserrat", sans-serif; font-size: 13px; line-height: 130%; }
+.a4 { left: 193px; bottom: 5px; }
 
-.a6 { left: 924px; color: rgb(255, 234, 0); font-weight: 300; 
- text-decoration: none; font-family:  "Montserrat", sans-serif; font-size: 13px; line-height: 130%; } 
+.a5 { left: 592px; color: rgb(255, 234, 0); font-weight: 400; 
+text-decoration: none; font-family:  "Montserrat", sans-serif; font-size: 13px; line-height: 130%;  bottom: 5px; }
+
+.a6 { left: 494px; color: rgb(255, 234, 0); font-weight: 300; 
+ text-decoration: none; font-family:  "Montserrat", sans-serif; font-size: 13px; line-height: 130%; bottom: 5px; } 
 
 .a6:hover {
   display: block;
   position: absolute;
   top: 50%;
-  left: 87%;
+  left: 86.5%;
   width: 10%;
   transform: translate(-50%, -50%);
   background-color: rgb(255, 234, 0);
@@ -31,16 +33,20 @@ text-decoration: none; font-family:  "Montserrat", sans-serif; font-size: 13px; 
   filter: blur(30px); }
 
 div { height: 1px; width: 95px; background-color: rgb(255, 234, 0);
-left: 1023px;}
+left: 1017px;}
 
-.poisk { bottom: 22px; left: 1182.88px; width: 20.04px; height: 19.95px; }
-.poisk-hover { width: 20.04px;  height: 19.95px; bottom: 22px; left: 1135px; opacity: 0;}
+.poisk { bottom: 22px; left: 1175.88px; width: 20.04px; height: 19.95px; }
+.poisk-hover { width: 20.04px;  height: 19.95px; bottom: 22px; left: 1128px; opacity: 0;}
 .poisk:hover { opacity: 0; }
 .poisk-hover:hover { opacity: 100;}
 
-.korzina { width: 20.04px; height: 19.95px; bottom: 22px; left: 1203.76px; }
-.korzina-hover { width: 20.04px; height: 19.95px; bottom: 22px; left: 1156px; opacity: 0;}
+.korzina { width: 20.04px; height: 19.95px; bottom: 22px; left: 1196.76px; }
+.korzina-hover { width: 20.04px; height: 19.95px; bottom: 22px; left: 1152px; opacity: 0;}
 .korzina:hover { opacity: 0;}
 .korzina-hover:hover { opacity: 100;}
 
-.sec2 { bottom: 19px;}
+@media (max-width: 1265px) { .logo { left: 20px;} .a5 { left: 572px} .a6 { left: 474px;} div { left: 997px;} .poisk { left: 1155.88px;} 
+.poisk-hover {left: 1108px;} .korzina { left: 1176.76px;} .korzina-hover { left: 1132px;}}
+
+@media (max-width: 1230px) { .logo { left: 40px;} .a5 { left: 572px} .a6 { left: 474px;} div { left: 997px;} .poisk { left: 1155.88px;} 
+.poisk-hover {left: 1108px;} .korzina { left: 1176.76px;} .korzina-hover { left: 1132px;}}

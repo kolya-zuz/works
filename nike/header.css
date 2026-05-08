@@ -159,8 +159,11 @@ left: 1017px;}
 
 @media (max-width: 420px) { .burger-menu { left: 338px; } .poisk { left: 245.88px;} .poisk-hover {left: 198px;} .korzina { left: 266.76px;} .korzina-hover { left: 219px;}}
 
-@media (max-width: 400px) { .burger-menu { left: 318px; } .poisk { left: 225.88px;} .poisk-hover {left: 178px;} .korzina { left: 246.76px;} .korzina-hover { left: 199px;}}
+@media (max-width: 400px) { .burger-menu { left: 318px; } .poisk { left: 225.88px;} .poisk-hover {left: 178px;} .korzina { left: 246.76px;} .korzina-hover { left: 199px;} .logo { left: 10px;} .a5 { left: 33px;} .a6 { left: -65px;}
+div { left: 87px;}}
 
-@media (max-width: 380px) { .burger-menu { left: 308px; } .poisk { left: 215px;} .poisk-hover {left: 168px;} .korzina { left: 236px;} .korzina-hover { left: 189px;}}
+@media (max-width: 380px) {}
 
-@media (max-width: 360px) { .burger-menu { left: 298px; } .korzina { left: 226px;} .korzina-hover { left: 179px;}}
+@media (max-width: 360px) { .burger-menu { left: 278px; } .korzina { left: 214px;} .korzina-hover { left: 179px;} .logo { left: 10px;} .a5 { left: 27px;}
+.a6 { left: -72px;} div { left: 80px;}
+.poisk { left: 195px;} .poisk-hover { left: 160px;}}

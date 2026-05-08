@@ -157,10 +157,10 @@ left: 1017px;}
 
 @media (max-width: 440px) { .burger-menu { left: 358px; } .a5 { left: 53px} .a6 { left: -45px;} div { left: 107px;} .poisk { left: 265.88px;} .poisk-hover {left: 218px;} .korzina { left: 286.76px;} .korzina-hover { left: 239px;}}
 
-@media (max-width: 420px) { .burger-menu { left: 338px; } .a5 { left: 33px} .a6 { left: -65px;} div { left: 87px;} .poisk { left: 245.88px;} .poisk-hover {left: 198px;} .korzina { left: 266.76px;} .korzina-hover { left: 219px;}}
+@media (max-width: 420px) { .burger-menu { left: 338px; } .poisk { left: 245.88px;} .poisk-hover {left: 198px;} .korzina { left: 266.76px;} .korzina-hover { left: 219px;}}
 
-@media (max-width: 400px) { .burger-menu { left: 318px; } .a5 { left: 13px} .a6 { left: -85px;} div { left: 67px;} .poisk { left: 225.88px;} .poisk-hover {left: 178px;} .korzina { left: 246.76px;} .korzina-hover { left: 199px;}}
+@media (max-width: 400px) { .burger-menu { left: 318px; } .poisk { left: 225.88px;} .poisk-hover {left: 178px;} .korzina { left: 246.76px;} .korzina-hover { left: 199px;}}
 
-@media (max-width: 380px) { .burger-menu { left: 298px; } .a5 { left: -7px} .a6 { left: -105px;} div { left: 47px;} .poisk { left: 205.88px;} .poisk-hover {left: 158px;} .korzina { left: 226.76px;} .korzina-hover { left: 179px;}}
+@media (max-width: 380px) { .burger-menu { left: 308px; } .poisk { left: 215px;} .poisk-hover {left: 168px;} .korzina { left: 236px;} .korzina-hover { left: 189px;}}
 
-@media (max-width: 360px) { .burger-menu { left: 278px; } .a5 { left: -27px} .a6 { left: -125px;} div { left: 27px;} .poisk { left: 185.88px;} .poisk-hover {left: 138px;} .korzina { left: 206.76px;} .korzina-hover { left: 159px;}}
+@media (max-width: 360px) { .burger-menu { left: 298px; } .korzina { left: 226px;} .korzina-hover { left: 179px;}}

@@ -159,8 +159,8 @@ left: 1017px;}
 
 @media (max-width: 420px) { .burger-menu { left: 338px; } .poisk { left: 245.88px;} .poisk-hover {left: 198px;} .korzina { left: 266.76px;} .korzina-hover { left: 219px;}}
 
-@media (max-width: 400px) { .burger-menu { left: 308px; } .poisk { left: 215px;} .poisk-hover {left: 168px;} .korzina { left: 236px;} .korzina-hover { left: 189px;} .logo { left: 0px;} .a5 { left: 23px;} .a6 { left: -55px;}
-div { left: 77px;}}
+@media (max-width: 400px) { .burger-menu { left: 318px; } .poisk { left: 225px;} .poisk-hover {left: 178px;} .korzina { left: 246px;} .korzina-hover { left: 199px;} .logo { left: 10px;} .a5 { left: 33px;} .a6 { left: -45px;}
+div { left: 87px;}}
 
 @media (max-width: 380px) {}
 

@@ -1,28 +1,33 @@
 * { position: relative; margin: 0;}
 
 header { display: flex; 
-        width: 1240px; 
-        height: 24px; 
-        background-color:#2a2a29; 
-        font-family: "Montserrat", sans-serif; 
-        text-decoration: none; 
-        margin-top: 40px; 
+        background-color: #2A2A29;
         margin-inline: auto;
-        position: fixed;}
+        margin-top: 40px;
+        width: 1240px;
+        height: 24px;
+        /*position: fixed;*/}
 
-header * { margin-block: auto;}       
+header a { font-family: "Montserrat", sans-serif;
+           text-decoration: none;
+           margin-block: auto;
+           line-height: 130%;
+           font-weight: 300;
+           color: #FFFFFF;
+           font-size: 13px;}
 
-header nav { margin-left: 120px; margin-bottom: 20px; margin-block: auto; display: flex; gap: 30px; }
-header nav a:hover {color: #ffea00;}         
+header a:hover { color: #FFEA00;}
 
-header a, .but1 { text-decoration: none; font-weight: 300;
-font-size: 13px; line-height: 130%; color: #FFFFFF;}
-.but1 { color: #ffea00; margin-left: 401px; display: inline;} 
+nav { margin-left: 120px;
+      display: flex; gap: 30px;}
 
-.krestik { visibility: hidden;}
+.div2 {margin-left: 60px;}
+.korzina:hover { stroke: #FFEA00;}
 
-.burger-menu { width: 20px; height: 14px; visibility: hidden;}
+.korzina { margin-left: 22.05px;}
 
-.div2 { margin-left: 60px;}
+.a5 { color: #FFEA00; margin-left: 401px; padding-bottom: 5px; 
+    border-bottom: #FFEA00 solid 1px;}
 
-
+.burger,.krestik { display: none;}
+           
